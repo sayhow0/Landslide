@@ -1,7 +1,7 @@
 # Curve Fitting for Landslide Susceptibility Prediction
 
 ##  Overview
-This repository contains the Python script and dataset used to develop a mathematical model for predicting landslide susceptibility using curve fitting. The method involves fitting a custom equation to estimate landslide susceptibility based on specific conditioning parameters.
+This repository contains the Python script and dataset used to develop a mathematical model for predicting landslide susceptibility using curve fitting. The method involves fitting a custom equation to estimate landslide susceptibility based on specific conditioning parameters. This approach is a type of  regression, which models the relationship between the input variables and landslide susceptibility.
 
 ##  Methodology
 ### **Defined Variables**
